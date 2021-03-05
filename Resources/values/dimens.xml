@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+
+	<!-- I added the ff -->
+	<dimen name="entryFieldHeight">50dp</dimen>
+</resources>

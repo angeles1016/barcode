@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Barcode Generator</string>
+    <string name="action_settings">Settings</string>
+
+	<!-- User required entry -->
+	<string name="assetDescEntry">Asset Description Entry</string>
+	<string name="serialNoEntry">Serial Number Entry</string>
+	<string name="amuEntry">AMU Entry</string>
+	<string name="generateBarcodeButton">Generate Barcode</string>
+
+</resources>
